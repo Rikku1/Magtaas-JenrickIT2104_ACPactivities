@@ -8,5 +8,5 @@ print("-----------------------------\n SONG DETAILS\n---------------------------
 print(f"Year: {year}")
 print(f"Genre: {genre}")
 print(f"Album: {album}")
-print(f"Song title: {song}")
+print(f"Song title: \"{song}\"")
 print(f"Artist: {artist}")
