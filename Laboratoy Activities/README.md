@@ -1,3 +1,8 @@
+<p>
+  <b><code>Jenrick Magtaas IT-2104</code></b>
+</p>
+
+
 # Laboratory Activities Overview
 
 This document provides an overview of the four lab activities and their respective items. Each activity is designed to build fundamental programming skills while addressing specific tasks. Below, you will find the purpose of the lab activities, details about their implementation, and instructions for viewers.
@@ -121,9 +126,14 @@ This program prompts the user to define the size of an array and input its eleme
 ---
 
 ## General Instructions for Viewers 📝
-1. ✅ Ensure all prompts are clear and informative.
-2. 🔍 Test edge cases for all inputs where applicable.
-3. 💬 Provide feedback on code readability and logic.
-4. 🚨 Check for any runtime errors or unexpected behavior.
+
+- Take your time to go through each lab in order, as each one builds on previous concepts.🔍
+- Reflect on how the code works and experiment with changes to deepen your understanding.🧠
+- Test different input scenarios, including edge cases, to ensure the program handles all situations well.⚙️
+- Enjoy the learning process, and don’t hesitate to explore new ideas and approaches!🎉
+- If you encounter any issues, such as errors or unexpected behavior, please report them to your instructor or post them on the discussion forum for assistance.🚨
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/NdFhL12ghQMcVpLXGF/giphy.gif?cid=790b7611qnpvn3ba5ncdw19po2ug02u8a4isck7fqivnu8cb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
+</p>
